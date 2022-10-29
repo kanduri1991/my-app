@@ -1,0 +1,22 @@
+.parent{
+    height: 100vh;
+    width: 100vw;
+   background-color: blue;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+  }
+  .child{
+      height: 300px ;
+      width: 300px;
+      background-color: beige;
+      display: flex;
+      text-align: center;
+      justify-content: center;
+      align-items: center;
+  }
+  button{
+    height: 40px;
+    
+  }
+  
