@@ -23,6 +23,7 @@ import { MailComponent } from './mail/mail.component';
 import { BankDetailsComponent } from './bank-details/bank-details.component';
 import { VehicleComponent } from './vehicle/vehicle.component';
 import { CreateAacountComponent } from './create-aacount/create-aacount.component';
+import { CreateUserComponent } from './create-user/create-user.component';
 
 
 @NgModule({
@@ -46,6 +47,7 @@ import { CreateAacountComponent } from './create-aacount/create-aacount.componen
     BankDetailsComponent,
     VehicleComponent,
     CreateAacountComponent,
+    CreateUserComponent,
     
   ],
   imports: [
